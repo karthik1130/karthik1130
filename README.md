@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<img align = "right" alt = "CODING" width = "400" src = "https://i.gifer.com/Ry6p.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik1130&label=Profile%20views&color=0e75b6&style=flat" alt="karthik1130" /> </p>
 
 <p align="left"> <a href="https://twitter.com/7808_kk" target="blank"><img src="https://img.shields.io/twitter/follow/7808_kk?logo=twitter&style=for-the-badge" alt="7808_kk" /></a> </p>
