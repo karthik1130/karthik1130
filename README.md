@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Karthikeya</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 align="left">Hi 👋, I'm Karthikeya</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthik1130&label=Profile%20views&color=0e75b6&style=flat" alt="karthik1130" /> </p>
 
