@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthikeya</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/7808_kk" target="blank"><img src="https://img.shields.io/twitter/follow/7808_kk?logo=twitter&style=for-the-badge" alt="7808_kk" /></a> </p>
-
 - 📫 How to reach me **karthikeya2665@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
